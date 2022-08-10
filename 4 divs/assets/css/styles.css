@@ -1,0 +1,38 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    height: 200px;
+    justify-content: space-between;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#div1 {
+    background-color: red;
+}
+
+#div2 {
+    background-color: blue;
+}
+
+#div3 {
+    background-color: green;
+}
+
+#div4 {
+    background-color: orange;
+}
